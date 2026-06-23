@@ -1,0 +1,6 @@
+{
+  "name": "Орда Такси",
+  "description": "Жылдам әрі сенімді такси қызметі. Жолаушылар мен жүргізушілерге арналған ыңғайлы қосымша.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
